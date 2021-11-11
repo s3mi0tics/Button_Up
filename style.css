@@ -1,0 +1,36 @@
+.oval{
+    display: block;
+    width: 125px;
+    height: auto;
+    margin: 15px;
+    color: gray;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    padding: 5px 20px;
+    border-radius: 50px;
+    box-shadow: none;
+}
+.round{
+    display: block;
+    height: 30px;
+    width: 30px;
+    margin: 15px;
+    color: white;
+    background-color: lightseagreen;
+    border: 0px;
+    border-radius: 100%;
+    font-size: 16;
+}
+.rectangle{
+    display: block;
+    width: auto;
+    height: auto;
+    margin: 15px;
+    color: white;
+    background-color: dodgerblue;
+    border: 3px solid black;
+    padding: 5px 20px;
+    border: radius 0px;
+    box-shadow: 5px 3px 0px black;
+    font-size: 1.1em;
+}
